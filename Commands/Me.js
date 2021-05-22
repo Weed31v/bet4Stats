@@ -4,7 +4,7 @@ const vt = new Database("Database", "Voice");
 const mdb = new Database("Database", "Message");
 const moment = require("moment");
 require("moment-duration-format");
-// exports.onLoad = (client) => {};
+// exports.onLoad = (client) => {};;
 /**
  * 
  * @param {Discord.Client} client 
